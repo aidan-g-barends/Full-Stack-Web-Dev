@@ -1,0 +1,42 @@
+[33mcommit 37af868e02ef7a8024dc5b1eb49df92b8a6540dd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aidan Barends <230255639@mycput.ac.za>
+Date:   Wed Apr 22 17:34:00 2026 +0200
+
+    defined routes
+
+[33mcommit 4f86f30fa53748477e3a689badd45d9cae5d95d2[m
+Merge: 3cc7b86 c8e0ed9
+Author: Aidan Barends <230255639@mycput.ac.za>
+Date:   Wed Apr 22 17:21:02 2026 +0200
+
+    Merge branch 'main' of https://github.com/Aidan-Barends/Full-Stack-Web-Dev
+
+[33mcommit 3cc7b8617c6d92b37702d25b90cf224491250eaf[m
+Author: Aidan Barends <230255639@mycput.ac.za>
+Date:   Wed Apr 22 16:54:07 2026 +0200
+
+    Using own API for blog
+
+[33mcommit c8e0ed971dd79f7da2a395937d34eb3b2628cbc9[m
+Author: Aidan Barends <230255639@mycput.ac.za>
+Date:   Wed Apr 22 16:54:07 2026 +0200
+
+    Update
+
+[33mcommit faa6d9fc6a84c438008c8018ef3433ff3e0bd9f0[m
+Author: Aidan Barends <230255639@mycput.ac.za>
+Date:   Wed Apr 22 11:50:57 2026 +0200
+
+    Creating POST, PUT, PATCH, DELETE routes
+
+[33mcommit 6056e80e1dccdf712198efc75dd7433fdc3fec25[m
+Author: Aidan Barends <230255639@mycput.ac.za>
+Date:   Tue Apr 21 19:49:55 2026 +0200
+
+    creating own get routes
+
+[33mcommit 94b24793e96d1ab7014ff088e505ef909b0b2b63[m
+Author: Aidan Barends <230255639@mycput.ac.za>
+Date:   Tue Apr 21 18:52:43 2026 +0200
+
+    Clean repo
